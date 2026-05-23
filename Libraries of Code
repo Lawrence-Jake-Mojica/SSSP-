@@ -1,0 +1,6 @@
+Libraries:
+- Adafruit GFX 
+- Adafruit ili9341
+
+Board Libraries
+- Arduino AVR Boards
